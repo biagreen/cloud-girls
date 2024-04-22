@@ -1,0 +1,51 @@
+Notes
+F12 Open Chrome Settings
+"String" : text
+
+HTML
+<meta charset="UTF-8"> : ENCODING : Ler acentuação, colocar na primeira linha
+<br> : BREAK : Skip line
+//: comentario
+
+<h1> : HEADING : Primeira pagina/Titulo principal (</h1>)
+<a> : ANCHOR : Ancora : Create a link (</a>)
+<a href "http://..."> : Link to click
+
+Linguagem Dinamica: JAVA SCRIPT 
+<scrip> Dinamic java script (/script)
+alert("text here"); : Pop-up  
+document.write("...") : Dinamic text inside html. Sem " faz operacoes
+
+var= : declara variavel pela primeira vez 
+= : recebe/receive
+Pare reatribuit o valor, nao precisa colocar "var" novamente. Apenasa informacao que sera alterada.
+ex: <meta charset="UTF-8">
+
+<script>
+    var mes = 6;
+    document.write("Realizei a prova no mês " + mes + ".");
+    mes = 7;
+    document.write("Não, desculpe, realizei a prova no mês " + mes + ".");
+</script>
+
+document.querySelector("HTML desejado ") : pega informacao de HTML
+Math.round: arredonda matematica
+
+Function verbo() {funcao aqui}: indicar acao e fechar com parenteses
+"<big>" "</big>" : texto maior
+
+prompt : sempre retorna texto. é a primeira forma que aprendemos para capturar a entrada do usuário
+
+parseInt : converte string em numero inteiro
+parseFloat : converte string em numero quebrado
+
+== : mostrar sinal igual
+
+&& : e (junta condicoes)
+!= : diferente
+
+if :condicao se
+else : alguma outra coisa
+
+total++ : total + 1
+
